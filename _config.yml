@@ -1,1 +1,3 @@
 theme: jekyll-theme-minimal
+title: 自定义title
+show_downloads: true
